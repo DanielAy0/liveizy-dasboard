@@ -1,7 +1,7 @@
 Live-eazy
 =
 
-Proposed dashboard re-design restructuring for [Liveizy](https://liveizy.com/)
+Proposed dashboard re-design for [Liveizy](https://liveizy.com/)
 
 [click to view on Behance](https://www.behance.net/gallery/90395381/Liveizy-dashboard-redesign)
 
